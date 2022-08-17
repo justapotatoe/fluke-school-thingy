@@ -1,2 +1,9 @@
 # fluke-school-thingy
-black friday is running rampant in punns dm
+coding for computer science
+*this is italic
+__bold__
+~~strikthrough~~
+**bold and italic**
+***bold+italic??***
+<sub>this is sub text<sub>
+  <sup>this is sup</sup>
