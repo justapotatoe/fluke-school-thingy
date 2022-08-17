@@ -7,3 +7,5 @@ __bold__
 ***bold+italic??***
 <sub>this is sub text<sub>
   <sup>this is sup</sup>
+:skull:
+  :sob:
